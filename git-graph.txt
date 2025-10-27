@@ -1,0 +1,26 @@
+* 3a05e1d (HEAD -> main, origin/main) docs:Add changelog
+* d64d585 docs: Add final GIT_JOUNEY doc
+* a6ff28c All new CHANGELOG.md
+| * 2b8ba5e (feature/another-feature) docs: Update CHANGELOG for reset 3 times and revert 1 time
+| * 28f9936 Bad commit
+| * 743551a (origin/feature/another-feature) feat: Add test feature
+|/  
+* a0a2958 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 5b38da9 docs: Update CHANGELOG for cherry-pick
+* d5df197 feat: Add new feature
+* dc2a19c docs: Add FAQ section
+| * f0da5c3 (feature/new-feature) feat: Add new feature
+| * 8d28ccf (origin/feature/new-feature) feat: Add new feature
+|/  
+*   1a1096b merge: Resolve all conflicts with conflict-simulator branch
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 22f58d6 merge: Resolve all conflicts between main and dev branches
+* |   d7e2dc8 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
