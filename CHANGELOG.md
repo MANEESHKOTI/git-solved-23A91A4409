@@ -1,13 +1,14 @@
-## Phase 4
-
-* Used fetch 1 time, pull 1 time
-
-* Used stash 1 time
-
-* Used cherry-pick 1 time
-
-* Used rebase 1 time
-
-* Used reset 3 times, revert 1 time
-
-* Created 2+ tags
+- d64d585: docs: Add final GIT_JOUNEY doc (ManeeshGit, 5 minutes ago)
+- a6ff28c: All new CHANGELOG.md (ManeeshGit, 26 minutes ago)
+- a0a2958: docs: Update README (ManeeshGit, 51 minutes ago)
+- 5b38da9: docs: Update CHANGELOG for cherry-pick (ManeeshGit, 56 minutes ago)
+- d5df197: feat: Add new feature (ManeeshGit, 82 minutes ago)
+- dc2a19c: docs: Add FAQ section (ManeeshGit, 2 hours ago)
+- 1a1096b: merge: Resolve all conflicts with conflict-simulator branch (ManeeshGit, 3 hours ago)
+- 22f58d6: merge: Resolve all conflicts between main and dev branches (ManeeshGit, 3 hours ago)
+- d7e2dc8: merge: Resolve all conflicts between main and dev branches (ManeeshGit, 3 hours ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 5 days ago)
+- 02011a5: updating dev (Hanu Gupta, 5 days ago)
+- 0312c6f: updating main (Hanu Gupta, 5 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 5 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 5 days ago)
